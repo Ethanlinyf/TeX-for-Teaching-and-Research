@@ -1,0 +1,5 @@
+\beamer@sectionintoc {3}{Networks are built from computers}{4}{0}{1}
+\beamer@sectionintoc {4}{Computer Hardware Components}{7}{0}{2}
+\beamer@sectionintoc {5}{Operating Systems}{18}{0}{3}
+\beamer@sectionintoc {6}{Computer Networks and the Internet}{29}{0}{4}
+\beamer@sectionintoc {7}{Summary}{39}{0}{5}
